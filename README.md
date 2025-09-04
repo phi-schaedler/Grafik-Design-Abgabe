@@ -49,7 +49,7 @@ Kontakt: phsc3459@bht-berlin.de & philipp.schaedler@gmail.com
 <br><br>
 <a id="EP.06"></a>
 <br>
-# Cube-Maps | THEMENWHAHL? |
+# Cube-Maps | THEMENWAHL? |
 ![image]()
 
 <br><br>
