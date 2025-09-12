@@ -51,6 +51,7 @@ Kontakt: phsc3459@bht-berlin.de & philipp.schaedler@gmail.com
 1. __Datengrundlage__
 * Listen in Excel/CSV [downloaden](https://worldpopulationreview.com/country-rankings/nba-players-by-country#sources)
 2. __Rawgraphs__
+
 ![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Arbeitsaufgabe_09.png) ![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Arbeitsaufgabe_09b.png)
 3. __Complex Bar Chart__
 ![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Arbeitsaufgabe_05.png)
