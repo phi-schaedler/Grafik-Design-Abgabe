@@ -6,26 +6,12 @@ Kontakt: phsc3459@bht-berlin.de & philipp.schaedler@gmail.com
 
 <br><br><br>
 # Inhaltsverzeichnis
-[Diagramme in ArcGIS Pro I](#EP.01)<br>
-[Diagramme in ArcGIS Pro II](#EP.02)<br>
 [Map of the Month](#EP.03)<br>
 [Maps as Charts](#EP.04)<br>
 [Spikemaps](#EP.05)<br>
 [Cube-Maps](#EP.06)<br>
 [AIX & Illustrator](#EP.07)<br>
 [Abschlussprojekt - NBA](#EP.08)<br>
-
-<br><br>
-<a id="EP.01"></a>
-<br>
-# Diagramme in ArcGIS Pro | Sprachen in Indien |
-![image]()
-
-<br><br>
-<a id="EP.02"></a>
-<br>
-# | Diagramme in ArcGIS Pro | Fahrradiebstähle in Berlin |
-![image]()
 
 <br><br>
 <a id="EP.03"></a>
@@ -49,7 +35,7 @@ Kontakt: phsc3459@bht-berlin.de & philipp.schaedler@gmail.com
 <br><br>
 <a id="EP.06"></a>
 <br>
-# Cube-Maps | THEMENWAHL? |
+# Cube-Maps | Eurobasket |
 ![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Arbeitsaufgabe_08.png)
 
 <br><br>
