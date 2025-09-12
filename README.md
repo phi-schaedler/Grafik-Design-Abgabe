@@ -55,6 +55,7 @@ Kontakt: phsc3459@bht-berlin.de & philipp.schaedler@gmail.com
 3. __Complex Bar Chart__
 ![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Arbeitsaufgabe_05.png)
 4. __Karten zum Thema__
+Anzahl aller ehemaliger und ehemaliger Spieler in Europa, sowie Karte aller aktiven Spieler.
 ![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Abschluss_alle_Spieler_Europa.png) ![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Abschluss_akutelle_Spieler_Europa.png)
 5. __Abschlussgrafik__
 ![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Abschluss.png)
