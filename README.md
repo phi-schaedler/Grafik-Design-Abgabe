@@ -31,26 +31,26 @@ Kontakt: phsc3459@bht-berlin.de & philipp.schaedler@gmail.com
 <a id="EP.03"></a>
 <br>
 # | Map of the Month | Bundestagswahl Berlin |
-![image]()
-![image]()
+![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Layout_SGP.png)
+![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Layout_bueso.png)
 
 <br><br>
 <a id="EP.04"></a>
 <br>
 # | Maps as Charts | Bremen |
-![image]()
+![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Arbeitsaufgabe_06.png)
 
 <br><br>
 <a id="EP.05"></a>
 <br>
-# EP.05 | Spike-Maps | Bundestagswahl in Berlin |
-![image]()
+# | Spike-Maps | Bundestagswahl in Berlin |
+![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Arbeitsaufgabe_07.png)
 
 <br><br>
 <a id="EP.06"></a>
 <br>
 # Cube-Maps | THEMENWAHL? |
-![image]()
+![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Arbeitsaufgabe_08.png)
 
 <br><br>
 <a id="EP.07"></a>
@@ -65,9 +65,9 @@ Kontakt: phsc3459@bht-berlin.de & philipp.schaedler@gmail.com
 1. __Datengrundlage__
 * Listen in Excel/CSV [downloaden](https://worldpopulationreview.com/country-rankings/nba-players-by-country#sources)
 2. __Rawgraphs__
-![image]()
+![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Arbeitsaufgabe_09.png) ![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Arbeitsaufgabe_09b.png)
 3. __Complex Bar Chart__
-![image]()
+![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Arbeitsaufgabe_05.png)
 4. __Karten zum Thema__
 ![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Abschluss_alle_Spieler_Europa.png) ![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Abschluss_akutelle_Spieler_Europa.png)
 5. __Abschlussgrafik__
