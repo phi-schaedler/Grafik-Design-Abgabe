@@ -69,6 +69,6 @@ Kontakt: phsc3459@bht-berlin.de & philipp.schaedler@gmail.com
 3. __Complex Bar Chart__
 ![image]()
 4. __Karten zum Thema__
-![image]() WELTKARTE PNG
+![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Abschluss_alle_Spieler_Europa.png) ![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Abschluss_akutelle_Spieler_Europa.png)
 5. __Abschlussgrafik__
-![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Abschluss.png) Karte mit meheren Elementen
+![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Abschluss.png)
