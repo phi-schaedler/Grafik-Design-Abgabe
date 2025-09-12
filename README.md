@@ -71,4 +71,4 @@ Kontakt: phsc3459@bht-berlin.de & philipp.schaedler@gmail.com
 4. __Karten zum Thema__
 ![image]() WELTKARTE PNG
 5. __Abschlussgrafik__
-![image]() Karte mit meheren Elementen
+![image](https://github.com/phi-schaedler/Grafik-Design-Abgabe/blob/main/Schaedler_Philipp_Abschluss.png) Karte mit meheren Elementen
