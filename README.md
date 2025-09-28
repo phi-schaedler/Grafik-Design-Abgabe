@@ -1,7 +1,9 @@
 # | Grafik-Design | Abschlussaufgabe | SOSE25 |
 ## Impressum
 Autor: Philipp Schädler
-Herausgeber: BHT  
+
+Herausgeber: BHT
+
 Kontakt: phsc3459@bht-berlin.de & philipp.schaedler@gmail.com
 
 <br><br><br>
